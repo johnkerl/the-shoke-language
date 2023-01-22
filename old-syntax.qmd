@@ -1,7 +1,16 @@
 ---
-title: Syntax of old Shókë
+title: Syntax of Old Shókë
 ---
+
+## Word order
+
+Shókë is strongly head-final. In particular, word order is SOV.
+
+The negative _che_ and the interrogative _dæ_ normally immediately precede the verb. However, they
+can alternatively start the utterance. For example, if one were to make it clear that the listener
+is going to be getting a question, or a _no_, one might start off saying _Che_ ...  or _Dæ_ ... to
+set the tone, while going on to search for the right words to say.
 
 ## TBW
 
-To do: elaborate on. Simple SOV, and then ... .
+To do: elaborate on.  Simple SOV, and then ... .

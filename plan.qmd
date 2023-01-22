@@ -1,0 +1,14 @@
+---
+title: Plan
+---
+
+* The sound system is a little different than English; it could be moreso. While I want the syntax
+to be very different from English (strongly head-final, with ergative-absolutive split), I don't
+want the sound system to be _maximally_ different from English -- but I could go a little farther.
+* Strict CVC, with a few CV exceptions, feels artificially simplistic
+* Flesh out Old Shókë lexicon
+* Iterate on Old Shókë example sentences, with low to medium syntactic complexity
+* Then develop Middle Shókë
+* Then develop New Shókë
+* Maybe develop one or more cousin languages which split off from Shókë at some point in time
+

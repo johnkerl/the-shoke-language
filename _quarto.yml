@@ -2,7 +2,6 @@ project:
   type: book
   output-dir: output
 
-# ----------------------------------------------------------------
 book:
   title: "The Shókë language"
   author: "John Kerl"
@@ -19,40 +18,15 @@ book:
     - part: "Old Shókë"
       chapters: 
         - old-phonology.qmd
+        - old-transcription.qmd
         - old-lexicon.qmd
         - old-syntax.qmd
+        - old-examples.qmd
     - part: "Middle Shókë"
     - part: "New Shókë"
 
-#        - "frontmatter/map.md"
-#        - "frontmatter/dedication.md"
-#
-#    - part: "Body"
-#      chapters:
-#        - "body/chuff.md"
-#        - "body/strangers.md"
-#        - "body/horses.md"
-#        - "body/the-first-summer.md"
-#        - "body/teaching.md"
-#        - "body/meka-meets-lym.md"
-#        - "body/the-forest.md"
-#        - "body/the-debate.md"
-#        - "body/a-traveler.md"
-#        - "body/tea.md"
-#        - "body/an-archmage.md"
-#        - "body/the-decision.md"
-#        - "body/the-new-duke.md"
-#        - "body/the-door.md"
-#        - "body/the-only-child.md"
-#        - "body/the-order.md"
-#        - "body/history-lesson.md"
-#        - "body/lyms-first-spell.md"
-#        - "body/the-dishes.md"
-#        - "body/the-questor.md"
-#        - "body/the-border-guard.md"
-#        - "body/summoning.md"
-
-# ----------------------------------------------------------------
+# TODO:
+# colophon about quarto :D
 # bibliography: references.bib
 
 format:

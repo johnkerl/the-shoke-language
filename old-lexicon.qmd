@@ -1,18 +1,17 @@
 ---
-title: Lexicon of old Shókë
+title: Lexicon of Old Shókë
 ---
 
 ## Pointing words
 
 * _kæt_: this
 * _shox_: that
-* _jæk_: the other
+* _dhon_: the other
 
-To do: _jæk_ and _jæjæ_ sound a bit silly ... let's replace them.
-
-## Negation
+## Negation and interrogation
 
 * _che_: no/not
+* _dæ_: question particle
 
 ## Exclamation
 
@@ -26,10 +25,10 @@ To do: _jæk_ and _jæjæ_ sound a bit silly ... let's replace them.
 * _shoke_: we/us (inclusive of the addressee(s))
 
 * _sho_:   you    (singular)
-* _shosho_: you    (pllral)
+* _shosho_: you    (plural)
 
-* _jæ_:     he/she/him/her
-* _jæjæ_:   they/them
+* _dho_:     he/she/him/her
+* _dhodho_:   they/them
 
 ## Nouns
 
@@ -64,7 +63,7 @@ To do: _jæk_ and _jæjæ_ sound a bit silly ... let's replace them.
 
 * _mish_:     breathe
 * _katrk_:    come
-* _mrm-kÆtr_: drink   -- water  take?
+* _mrm-kætr_: drink   -- water  take?
 * _...._:     eat     -- food   take?
 * _shoxtr_:   give
 * _trk_:      go
@@ -72,8 +71,8 @@ To do: _jæk_ and _jæjæ_ sound a bit silly ... let's replace them.
 * _...._:     run
 * _...._:     see     -- eye    something?
 * _shem_:     sleep
-* _shÆx_:     speak
-* _kÆtr_:     take
+* _shæx_:     speak
+* _kætr_:     take
 * _...._:     walk    -- person go?
 
 ## Adjectives

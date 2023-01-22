@@ -6,17 +6,22 @@ Shókë is a thought experiment to explicitly reconstruct language evolution fol
 _The Unfolding of Language_ (occasionally referred to herein as _TUoL_). Another closely followed
 resource is David J. Peterson's _The Art of Language Invention_ (TAoLI).
 
+I don't define any linguistic terminology in this document; TAoLI or any introductory linguistic
+textbook will suffice as background.
+
 The Old Shókë language is minimal, with a small paleolithic lexicon of nouns, verbs, and pointing
 words -- onomatopoeic when possible.  Syntax is unsophisticated isolating SOV.
 
 The Middle Shókë and New Shókë languages are artificial milestone-markings along the gradual path of
 change of the language over time, from (mild) agglutination to (mild) fusion.
 
-The lexicon is minimal -- no attempt is made to make even a vocabulary which would get a person
-through even the most routine of days.
+The lexicon shown in this document is minimal -- no attempt is made to make even a vocabulary which
+would get a person through even the most routine of days. In reality the language would have a bigger
+lexicon; one can think of this document as presenting a sample of it for discussion.
 
 While I want to explore agglutination and fusion along with the formation of more complex grammar
-over time, in a strongly non-English/non-head-initial context, I want to (perhaps unrealistically
-so) avoid "complex" grammar, e.g. what distinguishes Russian or Turkish from Bahasa Indonesia.
-There will be TMA markers for verbs but at no point do I intend to introduce words ten syllables
-long, or verb systems fully inflected for number, person, gender, tense, and so on.
+over time, in a strongly non-English/non-head-initial and ergative/absolutive context, I want to
+(perhaps unrealistically so) avoid "complex" grammar, e.g. what distinguishes Russian or Turkish
+from Bahasa Indonesia.  There will be, for example, TMA markers for verbs but at no point do I
+intend to introduce words ten syllables long, or verb systems fully inflected for number, person,
+gender, tense, and so on.

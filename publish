@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -euo pipefail
+
+quarto render
+./fix-perms.sh
+synctool -r u58051762@home321765456.1and1-data.host pushpwd
