@@ -6,23 +6,24 @@ title: Phonology of Old Shókë
 
 Consonants:
 
-|            | Labial    | Dental      | Post-alveolar | Palatal | Velar    |
--------------|-----------|-------------|---------------|----------|
-| Oral Stop  |           |  _t_, _d_   |               | _k_, _g_ |
-| Fricative  |           |  _th_, _dh_ | _sh_, _ch_    | _x_      |
-| Affricate  |           |             | _ch_, _j_     |          |
-| Nasal Stop |  _m_, _n_ |             |               |          |
+|            | Labial    | Dental      | Palato-alveolar | Velar    |
+-------------|-----------|-------------|-----------------|----------|
+| Oral Stop  |           |  _t_, _d_   |                 |_k_, _g_  |
+| Fricative  |           |  _th_, _dh_ | _sh_, _zh_      | _x_      |
+| Affricate  |           |             | _ch_, _j_       |          |
+| Nasal Stop |  _m_, _n_ |             |                 |          |
 
 The _t_ and _d_ are purely dental, as in Spanish.
 
 Vowels:
 
-|            | Front     | Central     | Liquid   | Back    |
--------------|-----------|-------------|----------|---------|
-| Close      | _i_       |             |          | _u_     |
-| Mid        | _e_       |             | _r_, _l_ | _o_     |
-|            | _æ_       |             |          |         |
-| Open       | _a_       |             |          |         |
+|            | Front     | Central     | Back    |
+-------------|-----------|-------------|---------|
+| Close      | _i_       |             | _u_     |
+| Mid        | _e_       |             | _o_     |
+|            | _æ_       |             |         |
+| Open       | _a_       |             |         |
+| Liquid     | _r_       | _l_         |         |
 
 It is to be noted that in Old Shókë, the liquids _r_ and _l_ are not consonants.  They function
 exclusively as nuclei in onset-nucleus-coda structures (below).  For example, to pronounce _mrm_,
