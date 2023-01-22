@@ -4,97 +4,115 @@ title: Lexicon of Old Shókë
 
 ## Pointing words
 
-* _kæt_: this
-* _shox_: that
-* _dhon_: the other
-
-## Negation and interrogation
-
-* _che_: no/not
-* _dæ_: question particle
-
-Perhaps at this early stage of linguistic development, the separate question particle _dæ_ would be
-superfluous -- perhaps a falling tone and/or gesture would be sufficient to disambiguate a question
-from a statement. Perhaps a separate negation particle would be more of a middle-Shókë development.
+|        |                      |
+|--------|----------------------|
+| _kæt_  | this                 |
+| _shox_ | that (near)          |
+| _dhon_ | the other (far away) |
 
 ## Exclamation
 
-* _xoj_!: wow!
+|          |              |
+|----------|--------------|
+| _Che!_   | No!          |
+| _Xoj!_   | Wow!         |
+
+## Negation and interrogation
+
+|        |                      |
+|--------|----------------------|
+| _che_  | no/not               |
+| _dæ_   | question particle    |
+
+Perhaps at this early stage of linguistic development, the separate question particle _dæ_ would be
+superfluous -- perhaps a falling tone and/or gesture would be sufficient to disambiguate a question
+from a statement -- as Old Shókë would have been a oral-only language.  Perhaps a separate negation
+particle would be more of a middle-Shókë development.
 
 ## Pronouns
 
-* _ke_:    I/me
-* _keke_:  we/us (exclusive of the addressee(s))
-
-* _shoke_: we/us (inclusive of the addressee(s))
-
-* _sho_:   you    (singular)
-* _shosho_: you    (plural)
-
-* _dho_:     he/she/him/her
-* _dhodho_:   they/them
+|                |       |                 |          |                                       |
+|----------------|-------|-----------------|----------|---------------------------------------|
+| First person:  | _ke_  | I/me            | _keke_   | we/us (exclusive of the addressee(s)) |
+| Second person: | _sho_ |  you (singular) | _shosho_ | you    (plural)                       |
+| First+second:  |       |                 | _shoke_  | we/us (inclusive of the addressee(s)) |
+| Third person:  | _dho_ | he/she/him/her  | _dhodho_ | they/them                             |
 
 ## Nouns
 
-* _chak_:   ash
-* _jitjit_: bird
-* _...._:   blood
-* _tok_:    bone
-* _...._:   child
-* _xæth_:  cloud
-* _shama_:  day
-* _...._:   eye
-* _kesh_:   fire
-* _...._:   hand
-* _næth_:   leaf
-* _xom_:    moon
-* _zhizh_:  mosquito/fly
-* _xoma_:   night
-* _...._:   parent
-* _shuk_:   person
-* _tæsh_:   rain
-* _trm_:    river
-* _thoth_:   soil
-* _meka_:   squirrel
-* _koch_:   stone
-* _sha_:    sun
-* _dej_:    tooth
-* _dhæm_:   tree
-* _mrm_:    water
-* _shish_:  wind
+
+|           |              |
+|-----------|--------------|
+| _chak_    | ash          |
+| _jitjit_  | bird         |
+| _...._    | blood        |
+| _tok_     | bone         |
+| _...._    | child        |
+| _xæth_    | cloud        |
+| _shama_   | day          |
+| _kun_     | eye          |
+| _kesh_    | fire         |
+| _trmrk_   | fish         |
+| _jidh_    | feather      |
+| _zhæx_    | hair         |
+| _dox_     | home         |
+| _næth_    | leaf         |
+| _xom_     | moon         |
+| _zhizh_   | mosquito/fly |
+| _thothrk_ | mushroom     |
+| _xoma_    | night        |
+| _...._    | parent       |
+| _shuk_    | person       |
+| _tæsh_    | rain         |
+| _gæch_    | root         |
+| _trm_     | river        |
+| _thoth_   | soil         |
+| _meka_    | squirrel     |
+| _koch_    | stone        |
+| _sha_     | sun          |
+| _dej_     | tooth        |
+| _dhæm_    | tree         |
+| _mrm_     | water        |
+| _shish_   | wind         |
 
 ## Verbs
 
-* _mish_:     breathe
-* _katrk_:    come
-* _mrm-kætr_: drink   -- water  take?
-* _...._:     eat     -- food   take?
-* _shoxtr_:   give
-* _trk_:      go
-* _...._:     hear
-* _...._:     run
-* _...._:     see     -- eye    something?
-* _shem_:     sleep
-* _shæx_:     speak
-* _kætr_:     take
-* _...._:     walk    -- person go?
+|            |         |
+|------------|---------|
+| _mish_     | breathe |
+| _katrk_    | come    |
+| _mrm-kætr_ | drink   |
+| _gæm_      | eat     |
+| _shoxtr_   | give    |
+| _trk_      | go      |
+| _...._     | hear    |
+| _...._     | run     |
+| _...._     | see -- eye something? |
+| _shem_     | sleep   |
+| _shæx_     | speak   |
+| _kætr_     | take    |
+| _...._     | walk    |
 
 ## Adjectives
 
-* _mom_:  round
-* _tet_:  flat
-* _tik_:  sharp
+|       |       |
+|-------|-------|
+| _mom_ | round |
+| _tet_ | flat  |
+| _tik_ | sharp |
+| _..._ | good  |
+| _..._ | bad   |
 
 ## To do
 
-Sources: Dolgopolsky, Swadesh, Wierzbicka's semantics primes
+Sources: Dolgopolsky; Swadesh; Wierzbicka's semantics primes
 
 Nouns: _a-long-time a-short-time air animal back bark-(tree) belly boat body border breast buffalo
 burn-(noun) caribou cat cloth creature dog dust ear earth east egg eye face family fat-(noun) father
 feather finger fingernail fish flood flour flower fly-(creature) fog foot forest fruit glass goat
 gold grass ground hair hand head heart horn horse hospital house husband ice island jungle/forest
 key knee knife lake leather leg liver louse man meat month mosquito mother mountain mouth music name
-neck north nose part poison root rope salt sand sea seed sheep side skin sky smoke snake snow
+neck north nose part poison rope salt sand sea seed sheep side skin sky smoke snake snow
 someone something/thing south spouse star stick storm tail tear/teardrop thread tongue-(organ) tooth
 village war west wing woman wood wool word/speech worm year_
 
@@ -105,7 +123,7 @@ push read rub say scratch sew sing sit smell something spit split squeeze stab s
 think throw tie touch-(contact) turn-(intransitive) vomit want wash wipe_
 
 Adjectives: _all bad big black cold dead dirty dry dull-(knife) far few flat full good green hard
-heavy here kind left long many more much/many my/mine narrow near new old other other~else~another
+heavy here kind left long many more much/many my/mine narrow near new old other other-else-another
 red right rotten round same sharp-(knife) short small smooth soft some straight sweet thick thin
 true warm wet white wide yellow_
 
@@ -124,104 +142,113 @@ Interrogatives: _how what when where who why_
 These match Old Shókë phonotactics:
 
 ```
-mam   man   mat   mad   math  madh  mash  maj   mach  max   mak   mag   ma
-mem   men   met   med   meth  medh  mesh  mej   mech  mex   mek   meg   me
-mæm   mæn   mæt   mæd   mæth  mædh  mæsh  mæj   mæch  mæx   mæk   mæg   mæ
-mim   min   mit   mid   mith  midh  mish  mij   mich  mix   mik   mig   mi
-mom   mon   mot   mod   moth  modh  mosh  moj   moch  mox   mok   mog   mo
-mum   mun   mut   mud   muth  mudh  mush  muj   much  mux   muk   mug   mu
-.     .     .     .     mrth  .     mrsh  mrj   mrch  .     mrk   mrg   mr
+mam   man   mat   mad   math  madh  mash  mazh  maj   mach  max   mak   mag   ma
+mem   men   met   med   meth  medh  mesh  mezh  mej   mech  mex   mek   meg   me
+mæm   mæn   mæt   mæd   mæth  mædh  mæsh  mæzh  mæj   mæch  mæx   mæk   mæg   mæ
+mim   min   mit   mid   mith  midh  mish  mizh  mij   mich  mix   mik   mig   mi
+mom   mon   mot   mod   moth  modh  mosh  mozh  moj   moch  mox   mok   mog   mo
+mum   mun   mut   mud   muth  mudh  mush  muzh  muj   much  mux   muk   mug   mu
+.     .     .     .     mrth  .     mrsh  mrzh  mrj   mrch  .     mrk   mrg   mr
 
-nam   nan   nat   nad   nath  nadh  nash  naj   nach  nax   nak   nag   na
-nem   nen   net   ned   neth  nedh  nesh  nej   nech  nex   nek   neg   ne
-næm   næn   næt   næd   næth  nædh  næsh  næj   næch  næx   næk   næg   næ
-nim   nin   nit   nid   nith  nidh  nish  nij   nich  nix   nik   nig   ni
-nom   non   not   nod   noth  nodh  nosh  noj   noch  nox   nok   nog   no
-num   nun   nut   nud   nuth  nudh  nush  nuj   nuch  nux   nuk   nug   nu
-.     .     nrt   nrd   nrth  nrdh  nrsh  nrj   nrch  .     nrk   nrg   nr
+nam   nan   nat   nad   nath  nadh  nash  nazh  naj   nach  nax   nak   nag   na
+nem   nen   net   ned   neth  nedh  nesh  nezh  nej   nech  nex   nek   neg   ne
+næm   næn   næt   næd   næth  nædh  næsh  næzh  næj   næch  næx   næk   næg   næ
+nim   nin   nit   nid   nith  nidh  nish  nizh  nij   nich  nix   nik   nig   ni
+nom   non   not   nod   noth  nodh  nosh  nozh  noj   noch  nox   nok   nog   no
+num   nun   nut   nud   nuth  nudh  nush  nuzh  nuj   nuch  nux   nuk   nug   nu
+.     .     nrt   nrd   nrth  nrdh  nrsh  nrzh  nrj   nrch  .     nrk   nrg   nr
 
-tam   tan   tat   tad   tath  tadh  tash  taj   tach  tax   tak   tag   ta
-tem   ten   tet   ted   teth  tedh  tesh  tej   tech  tex   tek   teg   te
-tæm   tæn   tæt   tæd   tæth  tædh  tæsh  tæj   tæch  tæx   tæk   tæg   tæ
-tim   tin   tit   tid   tith  tidh  tish  tij   tich  tix   tik   tig   ti
-tom   ton   tot   tod   toth  todh  tosh  toj   toch  tox   tok   tog   to
-tum   tun   tut   tud   tuth  tudh  tush  tuj   tuch  tux   tuk   tug   tu
-.     trn   trt   trd   trth  trdh  trsh  trj   trch  trx   trk   trg   tr
+tam   tan   tat   tad   tath  tadh  tash  tazh  taj   tach  tax   tak   tag   ta
+tem   ten   tet   ted   teth  tedh  tesh  tezh  tej   tech  tex   tek   teg   te
+tæm   tæn   tæt   tæd   tæth  tædh  tæsh  tæzh  tæj   tæch  tæx   tæk   tæg   tæ
+tim   tin   tit   tid   tith  tidh  tish  tizh  tij   tich  tix   tik   tig   ti
+tom   ton   tot   tod   toth  todh  tosh  tozh  toj   toch  tox   tok   tog   to
+tum   tun   tut   tud   tuth  tudh  tush  tuzh  tuj   tuch  tux   tuk   tug   tu
+.     trn   trt   trd   trth  trdh  trsh  trzh  trj   trch  trx   trk   trg   tr
 
-dam   dan   dat   dad   dath  dadh  dash  daj   dach  dax   dak   dag   da
-dem   den   det   ded   deth  dedh  desh  dej   dech  dex   dek   deg   de
-dæm   dæn   dæt   dæd   dæth  dædh  dæsh  dæj   dæch  dæx   dæk   dæg   dæ
-dim   din   dit   did   dith  didh  dish  dij   dich  dix   dik   dig   di
-dom   don   dot   dod   doth  dodh  dosh  doj   doch  dox   dok   dog   do
-dum   dun   dut   dud   duth  dudh  dush  duj   duch  dux   duk   dug   du
-.     drn   drt   drd   drth  drdh  drsh  drj   drch  drx   drk   drg   dr
-dlm   .     dlt   .     dlth  dlch  dlk   dlg   dl
+dam   dan   dat   dad   dath  dadh  dash  dazh  daj   dach  dax   dak   dag   da
+dem   den   det   ded   deth  dedh  desh  dezh  dej   dech  dex   dek   deg   de
+dæm   dæn   dæt   dæd   dæth  dædh  dæsh  dæzh  dæj   dæch  dæx   dæk   dæg   dæ
+dim   din   dit   did   dith  didh  dish  dizh  dij   dich  dix   dik   dig   di
+dom   don   dot   dod   doth  dodh  dosh  dozh  doj   doch  dox   dok   dog   do
+dum   dun   dut   dud   duth  dudh  dush  duzh  duj   duch  dux   duk   dug   du
+.     drn   drt   drd   drth  drdh  drsh  drzh  drj   drch  drx   drk   drg   dr
+dlm   .     dlt   .     dlth  dlch  dlk         dlg   dl
 
-tham  than  that  thad  thath thadh thash thaj  thach thax  thak  thag  tha
-them  then  thet  thed  theth thedh thesh thej  thech thex  thek  theg  the
-thæm  thæn  thæt  thæd  thæth thædh thæsh thæj  thæch thæx  thæk  thæg  thæ
-thim  thin  thit  thid  thith thidh thish thij  thich thix  thik  thig  thi
-thom  thon  thot  thod  thoth thodh thosh thoj  thoch thox  thok  thog  tho
-thum  thun  thut  thud  thuth thudh thush thuj  thuch thux  thuk  thug  thu
-thrm  thrn  thrt  thrd  thrth thrdh thrsh thrj  thrch thrx  thrk  thrg  thr
+tham  than  that  thad  thath thadh thash thazh thaj  thach thax  thak  thag  tha
+them  then  thet  thed  theth thedh thesh thezh thej  thech thex  thek  theg  the
+thæm  thæn  thæt  thæd  thæth thædh thæsh thæzh thæj  thæch thæx  thæk  thæg  thæ
+thim  thin  thit  thid  thith thidh thish thizh thij  thich thix  thik  thig  thi
+thom  thon  thot  thod  thoth thodh thosh thozh thoj  thoch thox  thok  thog  tho
+thum  thun  thut  thud  thuth thudh thush thuzh thuj  thuch thux  thuk  thug  thu
+thrm  thrn  thrt  thrd  thrth thrdh thrsh thrzh thrj  thrch thrx  thrk  thrg  thr
 
-dham  dhan  dhat  dhad  dhath dhadh dhash dhaj  dhach dhax  dhak  dhag  dha
-dhem  dhen  dhet  dhed  dheth dhedh dhesh dhej  dhech dhex  dhek  dheg  dhe
-dhæm  dhæn  dhæt  dhæd  dhæth dhædh dhæsh dhæj  dhæch dhæx  dhæk  dhæg  dhæ
-dhim  dhin  dhit  dhid  dhith dhidh dhish dhij  dhich dhix  dhik  dhig  dhi
-dhom  dhon  dhot  dhod  dhoth dhodh dhosh dhoj  dhoch dhox  dhok  dhog  dho
-dhum  dhun  dhut  dhud  dhuth dhudh dhush dhuj  dhuch dhux  dhuk  dhug  dhu
-dhrm  dhrn  dhrt  dhrd  dhrth dhrdh dhrsh dhrj  dhrch       dhrk  dhrg  dhr
+dham  dhan  dhat  dhad  dhath dhadh dhash dhazh dhaj  dhach dhax  dhak  dhag  dha
+dhem  dhen  dhet  dhed  dheth dhedh dhesh dhezh dhej  dhech dhex  dhek  dheg  dhe
+dhæm  dhæn  dhæt  dhæd  dhæth dhædh dhæsh dhæzh dhæj  dhæch dhæx  dhæk  dhæg  dhæ
+dhim  dhin  dhit  dhid  dhith dhidh dhish dhizh dhij  dhich dhix  dhik  dhig  dhi
+dhom  dhon  dhot  dhod  dhoth dhodh dhosh dhozh dhoj  dhoch dhox  dhok  dhog  dho
+dhum  dhun  dhut  dhud  dhuth dhudh dhush dhuzh dhuj  dhuch dhux  dhuk  dhug  dhu
+dhrm  dhrn  dhrt  dhrd  dhrth dhrdh dhrsh dhrzh dhrj  dhrch       dhrk  dhrg  dhr
 
-sham  shan  shat  shad  shath shadh shash shaj  shach shax  shak  shag  sha
-shem  shen  shet  shed  sheth shedh shesh shej  shech shex  shek  sheg  she
-shæm  shæn  shæt  shæd  shæth shædh shæsh shæj  shæch shæx  shæk  shæg  shæ
-shim  shin  shit  shid  shith shidh shish shij  shich shix  shik  shig  shi
-shom  shon  shot  shod  shoth shodh shosh shoj  shoch shox  shok  shog  sho
-shum  shun  shut  shud  shuth shudh shush shuj  shuch shux  shuk  shug  shu
-shrm  shrn  shrt  shrd  shrth .     shrsh shrj  shrch shrx  shrk  shrg  shr
-shlm  shln  shlt  shld  shlth shlch shlk  shlg  shl
+sham  shan  shat  shad  shath shadh shash shazh shaj  shach shax  shak  shag  sha
+shem  shen  shet  shed  sheth shedh shesh shezh shej  shech shex  shek  sheg  she
+shæm  shæn  shæt  shæd  shæth shædh shæsh shæzh shæj  shæch shæx  shæk  shæg  shæ
+shim  shin  shit  shid  shith shidh shish shizh shij  shich shix  shik  shig  shi
+shom  shon  shot  shod  shoth shodh shosh shozh shoj  shoch shox  shok  shog  sho
+shum  shun  shut  shud  shuth shudh shush shuzh shuj  shuch shux  shuk  shug  shu
+shrm  shrn  shrt  shrd  shrth .     shrsh shrzh shrj  shrch shrx  shrk  shrg  shr
+shlm  shln  shlt  shld  shlth shlch shlk  shlzh shlg  shl
 
-cham  chan  chat  chad  chath chadh chash chaj  chach chax  chak  chag  cha
-chem  chen  chet  ched  cheth chedh chesh chej  chech chex  chek  cheg  che
-chæm  chæn  chæt  chæd  chæth chædh chæsh chæj  chæch chæx  chæk  chæg  chæ
-chim  chin  chit  chid  chith chidh chish chij  chich chix  chik  chig  chi
-chom  chon  chot  chod  choth chodh chosh choj  choch chox  chok  chog  cho
-chum  chun  chut  chud  chuth chudh chush chuj  chuch chux  chuk  chug  chu
-chrm  chrn  chrt  chrd  chrth chrdh chrsh .     chrch chrx  chrk  chrg  chr
-chlm  chln  chlt  chld  chlth chlch .     .     chl
+zham  zhan  zhat  zhad  zhath zhadh zhash zhazh zhaj  zhach zhax  zhak  zhag  zha
+zhem  zhen  zhet  zhed  zheth zhedh zhesh zhezh zhej  zhech zhex  zhek  zheg  zhe
+zhæm  zhæn  zhæt  zhæd  zhæth zhædh zhæsh zhæzh zhæj  zhæch zhæx  zhæk  zhæg  zhæ
+zhim  zhin  zhit  zhid  zhith zhidh zhish zhizh zhij  zhich zhix  zhik  zhig  zhi
+zhom  zhon  zhot  zhod  zhoth zhodh zhosh zhozh zhoj  zhoch zhox  zhok  zhog  zho
+zhum  zhun  zhut  zhud  zhuth zhudh zhush zhuzh zhuj  zhuch zhux  zhuk  zhug  zhu
+zhrm  zhrn  zhrt  zhrd  zhrth .     zhrsh zhrzh zhrj  zhrch zhrx  zhrk  zhrg  zhr
+zhlm  zhln  zhlt  zhld  zhlth zhlch zhlk  zhlzh zhlg  zhl
 
-jam   jan   jat   jad   jath  jadh  jash  jaj   jach  jax   jak   jag   ja
-jem   jen   jet   jed   jeth  jedh  jesh  jej   jech  jex   jek   jeg   je
-jæm   jæn   jæt   jæd   jæth  jædh  jæsh  jæj   jæch  jæx   jæk   jæg   jæ
-jim   jin   jit   jid   jith  jidh  jish  jij   jich  jix   jik   jig   ji
-jom   jon   jot   jod   joth  jodh  josh  joj   joch  jox   jok   jog   jo
-jum   jun   jut   jud   juth  judh  jush  juj   juch  jux   juk   jug   ju
-jrm   jrn   jrt   jrd   jrth  jrdh  jrsh  .     jrch  .     jrk   jrg   jr
+cham  chan  chat  chad  chath chadh chash chazh chaj  chach chax  chak  chag  cha
+chem  chen  chet  ched  cheth chedh chesh chezh chej  chech chex  chek  cheg  che
+chæm  chæn  chæt  chæd  chæth chædh chæsh chæzh chæj  chæch chæx  chæk  chæg  chæ
+chim  chin  chit  chid  chith chidh chish chizh chij  chich chix  chik  chig  chi
+chom  chon  chot  chod  choth chodh chosh chozh choj  choch chox  chok  chog  cho
+chum  chun  chut  chud  chuth chudh chush chuzh chuj  chuch chux  chuk  chug  chu
+chrm  chrn  chrt  chrd  chrth chrdh chrsh chrzh .     chrch chrx  chrk  chrg  chr
+chlm  chln  chlt  chld  chlth chlch .           .     chl
 
-xam   xan   xat   xad   xath  xadh  xash  xaj   xach  xax   xak   xag   xa
-xem   xen   xet   xed   xeth  xedh  xesh  xej   xech  xex   xek   xeg   xe
-xæm   xæn   xæt   xæd   xæth  xædh  xæsh  xæj   xæch  xæx   xæk   xæg   xæ
-xim   xin   xit   xid   xith  xidh  xish  xij   xich  xix   xik   xig   xi
-xom   xon   xot   xod   xoth  xodh  xosh  xoj   xoch  xox   xok   xog   xo
-xum   xun   xut   xud   xuth  xudh  xush  xuj   xuch  xux   xuk   xug   xu
+jam   jan   jat   jad   jath  jadh  jash  jazh  jaj   jach  jax   jak   jag   ja
+jem   jen   jet   jed   jeth  jedh  jesh  jezh  jej   jech  jex   jek   jeg   je
+jæm   jæn   jæt   jæd   jæth  jædh  jæsh  jæzh  jæj   jæch  jæx   jæk   jæg   jæ
+jim   jin   jit   jid   jith  jidh  jish  jizh  jij   jich  jix   jik   jig   ji
+jom   jon   jot   jod   joth  jodh  josh  jozh  joj   joch  jox   jok   jog   jo
+jum   jun   jut   jud   juth  judh  jush  juzh  juj   juch  jux   juk   jug   ju
+jrm   jrn   jrt   jrd   jrth  jrdh  jrsh        .     jrch  .     jrk   jrg   jr
 
-kam   kan   kat   kad   kath  kadh  kash  kaj   kach  kax   kak   kag   ka
-kem   ken   ket   ked   keth  kedh  kesh  kej   kech  kex   kek   keg   ke
-kæm   kæn   kæt   kæd   kæth  kædh  kæsh  kæj   kæch  kæx   kæk   kæg   kæ
-kim   kin   kit   kid   kith  kidh  kish  kij   kich  kix   kik   kig   ki
-kom   kon   kot   kod   koth  kodh  kosh  koj   koch  kox   kok   kog   ko
-kum   kun   kut   kud   kuth  kudh  kush  kuj   kuch  kux   kuk   kug   ku
-krm   krn   krt   krd   krth  krdh  krsh  krj   krch  krx   krk   krg   kr
+xam   xan   xat   xad   xath  xadh  xash  xazh  xaj   xach  xax   xak   xag   xa
+xem   xen   xet   xed   xeth  xedh  xesh  xizh  xej   xech  xex   xek   xeg   xe
+xæm   xæn   xæt   xæd   xæth  xædh  xæsh  xæzh  xæj   xæch  xæx   xæk   xæg   xæ
+xim   xin   xit   xid   xith  xidh  xish  xizh  xij   xich  xix   xik   xig   xi
+xom   xon   xot   xod   xoth  xodh  xosh  xozh  xoj   xoch  xox   xok   xog   xo
+xum   xun   xut   xud   xuth  xudh  xush  xuzh  xuj   xuch  xux   xuk   xug   xu
 
-gam   gan   gat   gad   gath  gadh  gash  gaj   gach  gax   gak   gag   ga
-gem   gen   get   ged   geth  gedh  gesh  gej   gech  gex   gek   geg   ge
-gæm   gæn   gæt   gæd   gæth  gædh  gæsh  gæj   gæch  gæx   gæk   gæg   gæ
-gim   gin   git   gid   gith  gidh  gish  gij   gich  gix   gik   gig   gi
-gom   gon   got   god   goth  godh  gosh  goj   goch  gox   gok   gog   go
-gum   gun   gut   gud   guth  gudh  gush  guj   guch  gux   guk   gug   gu
-grm   grn   grt   grd   grth  grdh  grsh  grj   grch  grx   grk   grg   gr
-glm   gln   glt   gld   glth  .     .     .     glch  .     glk   glg   gl
+kam   kan   kat   kad   kath  kadh  kash  kazh  kaj   kach  kax   kak   kag   ka
+kem   ken   ket   ked   keth  kedh  kesh  kezh  kej   kech  kex   kek   keg   ke
+kæm   kæn   kæt   kæd   kæth  kædh  kæsh  kæzh  kæj   kæch  kæx   kæk   kæg   kæ
+kim   kin   kit   kid   kith  kidh  kish  kizh  kij   kich  kix   kik   kig   ki
+kom   kon   kot   kod   koth  kodh  kosh  kozh  koj   koch  kox   kok   kog   ko
+kum   kun   kut   kud   kuth  kudh  kush  kuzh  kuj   kuch  kux   kuk   kug   ku
+krm   krn   krt   krd   krth  krdh  krsh  krzh  krj   krch  krx   krk   krg   kr
+
+gam   gan   gat   gad   gath  gadh  gash  gazh  gaj   gach  gax   gak   gag   ga
+gem   gen   get   ged   geth  gedh  gesh  gezh  gej   gech  gex   gek   geg   ge
+gæm   gæn   gæt   gæd   gæth  gædh  gæsh  gæzh  gæj   gæch  gæx   gæk   gæg   gæ
+gim   gin   git   gid   gith  gidh  gish  gizh  gij   gich  gix   gik   gig   gi
+gom   gon   got   god   goth  godh  gosh  gozh  goj   goch  gox   gok   gog   go
+gum   gun   gut   gud   guth  gudh  gush  guzh  guj   guch  gux   guk   gug   gu
+grm   grn   grt   grd   grth  grdh  grsh  grzh  grj   grch  grx   grk   grg   gr
+glm   gln   glt   gld   glth  .     .           .     glch  .     glk   glg   gl
 ```
 
 <!--

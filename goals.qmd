@@ -25,3 +25,8 @@ over time, in a strongly non-English/non-head-initial and ergative/absolutive co
 from Bahasa Indonesia.  There will be, for example, TMA markers for verbs but at no point do I
 intend to introduce words ten syllables long, or verb systems fully inflected for number, person,
 gender, tense, and so on.
+
+While this is primarily a linguistic experiment -- more _conling_ than _artlang_, as it were -- I
+choose to make things pleasant to my ear (although as of January 2023 Old Shókë comes off as a bit
+on the harsh side). Similarly, I'll actively avoid gender affixes, primarily because I simply choose
+to do so.

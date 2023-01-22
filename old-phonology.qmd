@@ -15,6 +15,9 @@ Consonants:
 
 The _t_ and _d_ are purely dental, as in Spanish.
 
+I personally dislike _f_ and _v: their omission is plausible.  The omission of _p_ and _b_ is
+implausible.
+
 Vowels:
 
 |            | Front     | Central     | Back    |
@@ -33,7 +36,7 @@ To do: Few of these sounds are non-English. A bit more could be done in this dir
 
 ## Phonotactics
 
-Syllables are primarily CVC, and secondarily CV.
+Syllables are primarily CVC, and secondarily CV or CVCVC.
 
 To do: formulate other restrictions as they arise.
 
