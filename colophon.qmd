@@ -1,0 +1,5 @@
+---
+title: Colophon
+---
+
+This document was typeset in the Baskerville font using the [Quarto](https://quarto.org) publishing system.

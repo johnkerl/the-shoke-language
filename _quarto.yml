@@ -24,6 +24,9 @@ book:
         - old-examples.qmd
     - part: "Middle Shókë"
     - part: "New Shókë"
+    - part: "Endmatter"
+      chapters:
+        - colophon.qmd
 
 # TODO:
 # colophon about quarto :D

@@ -31,9 +31,9 @@ Vowels and syllabic liquids:
 |----------------|------------------|
 | _r_            | _l_              |
 
-It is to be noted that in Old Shókë, the liquids _r_ and _l_ are not consonants.  They function
+It is to be noted that in Old Shókë, the liquids _r_ and _l_ do not play a consonantal.  They function
 exclusively as nuclei in onset-nucleus-coda structures (below).  For example, to pronounce _mrm_,
-simply utter the English word _murmur_ but leave off the final _ur_.
+simply utter the English word _murmur_ (with rhotic _r_) but leave off the final _ur_.
 
 To do: A few, but not many, of these sounds are non-English. A bit more could be done in this direction.
 
@@ -45,6 +45,9 @@ To do: formulate other restrictions as they arise.
 
 ## Stress
 
-Stress is always on the penultimate syllable. In the title of this document we write _Shókë_ for
-maximum clarity to the first-time reader; for internals of this document we will simply
-write _shoke_.
+Stress in polysyllabic words is always on the penultimate syllable. In the title of this document we
+write _Shókë_ for maximum clarity to the first-time reader; for internals of this document we will
+simply write _shoke_.
+
+Stress across words in a sentence, I have not decided yet. But since Shókë is head-final I expect
+stress to land naturally on the heads.

@@ -2,104 +2,104 @@
 title: Lexicon of Old Shókë
 ---
 
-## Pointing words
-
-|        |                      |
-|--------|----------------------|
-| _kæt_  | this                 |
-| _shox_ | that (near)          |
-| _nozh_ | the other (far away) |
-
 ## Exclamation
 
 |          |              |
 |----------|--------------|
-| _Che!_   | No!          |
-| _Xoj!_   | Wow!         |
+| _Xoj!_   | Wow!         | <!-- lexent -->
+| _Che!_   | No!          | <!-- lexent -->
 
 ## Negation and interrogation
 
 |        |                      |
 |--------|----------------------|
-| _che_  | no/not               |
-| _dæ_   | question particle    |
+| _che_  | no/not               | <!-- lexent -->
+| _dæ_   | question particle    | <!-- lexent -->
 
 Perhaps at this early stage of linguistic development, the separate question particle _dæ_ would be
 superfluous -- perhaps a falling tone and/or gesture would be sufficient to disambiguate a question
 from a statement -- as Old Shókë would have been a oral-only language.  Perhaps a separate negation
 particle would be more of a middle-Shókë development.
 
+## Pointing words
+
+|        |                      |
+|--------|----------------------|
+| _kæt_  | this                 | <!-- lexent -->
+| _shox_ | that (near)          | <!-- lexent -->
+| _nozh_ | the other (far away) | <!-- lexent -->
+
 ## Pronouns
 
 |                |       |                 |          |                                       |
 |----------------|-------|-----------------|----------|---------------------------------------|
-| First person:  | _ke_  | I/me            | _keke_   | we/us (exclusive of the addressee(s)) |
-| Second person: | _sho_ |  you (singular) | _shosho_ | you    (plural)                       |
-| First+second:  |       |                 | _shoke_  | we/us (inclusive of the addressee(s)) |
-| Third person:  | _no_  | he/she/him/her  | _nono_   | they/them                             |
+| First person:  | _ke_  | I/me            | _keke_   | we/us (exclusive of the addressee(s)) | <!-- lexent lexent -->
+| Second person: | _sho_ |  you (singular) | _shosho_ | you    (plural)                       | <!-- lexent lexent -->
+| First+second:  |       |                 | _shoke_  | we/us (inclusive of the addressee(s)) | <!-- lexent -->
+| Third person:  | _no_  | he/she/him/her  | _nono_   | they/them                             | <!-- lexent lexent -->
 
 ## Nouns
 
 
 |           |              |
 |-----------|--------------|
-| _chak_    | ash          |
-| _jitjit_  | bird         |
+| _chak_    | ash          | <!-- lexent -->
+| _jitjit_  | bird         | <!-- lexent -->
 | _...._    | blood        |
-| _tok_     | bone         |
+| _tok_     | bone         | <!-- lexent -->
 | _...._    | child        |
-| _xæth_    | cloud        |
-| _shama_   | day          |
-| _kun_     | eye          |
-| _kesh_    | fire         |
-| _trmrk_   | fish         |
-| _jidh_    | feather      |
-| _zhæx_    | hair         |
-| _dox_     | home         |
-| _næth_    | leaf         |
-| _xom_     | moon         |
-| _zhizh_   | mosquito/fly |
-| _thothrk_ | mushroom     |
-| _xoma_    | night        |
+| _xæth_    | cloud        | <!-- lexent -->
+| _shama_   | day          | <!-- lexent -->
+| _kun_     | eye          | <!-- lexent -->
+| _kesh_    | fire         | <!-- lexent -->
+| _trmrk_   | fish         | <!-- lexent -->
+| _jidh_    | feather      | <!-- lexent -->
+| _zhæx_    | hair         | <!-- lexent -->
+| _dox_     | home         | <!-- lexent -->
+| _næth_    | leaf         | <!-- lexent -->
+| _xom_     | moon         | <!-- lexent -->
+| _zhizh_   | mosquito/fly | <!-- lexent -->
+| _thothrk_ | mushroom     | <!-- lexent -->
+| _xoma_    | night        | <!-- lexent -->
 | _...._    | parent       |
-| _shuk_    | person       |
-| _tæsh_    | rain         |
-| _gæch_    | root         |
-| _trm_     | river        |
-| _thoth_   | soil         |
-| _meka_    | squirrel     |
-| _koch_    | stone        |
-| _sha_     | sun          |
-| _dej_     | tooth        |
-| _dhæm_    | tree         |
-| _mrm_     | water        |
-| _shish_   | wind         |
+| _shuk_    | person       | <!-- lexent -->
+| _tæsh_    | rain         | <!-- lexent -->
+| _gæch_    | root         | <!-- lexent -->
+| _trm_     | river        | <!-- lexent -->
+| _thoth_   | soil         | <!-- lexent -->
+| _meka_    | squirrel     | <!-- lexent -->
+| _koch_    | stone        | <!-- lexent -->
+| _sha_     | sun          | <!-- lexent -->
+| _dej_     | tooth        | <!-- lexent -->
+| _dhæm_    | tree         | <!-- lexent -->
+| _mrm_     | water        | <!-- lexent -->
+| _shish_   | wind         | <!-- lexent -->
 
 ## Verbs
 
 |            |         |
 |------------|---------|
-| _mish_     | breathe |
-| _katrk_    | come    |
-| _mrm-kætr_ | drink   |
-| _gæm_      | eat     |
-| _shoxtr_   | give    |
-| _trk_      | go      |
+| _mish_     | breathe | <!-- lexent -->
+| _katrk_    | come    | <!-- lexent -->
+| _mrm-kætr_ | drink   | <!-- lexent -->
+| _gæm_      | eat     | <!-- lexent -->
+| _shoxtr_   | give    | <!-- lexent -->
+| _trk_      | go      | <!-- lexent -->
 | _...._     | hear    |
 | _...._     | run     |
 | _...._     | see -- eye something? |
-| _shem_     | sleep   |
-| _shæx_     | speak   |
-| _kætr_     | take    |
+| _shem_     | sleep   | <!-- lexent -->
+| _shæx_     | speak   | <!-- lexent -->
+| _kætr_     | take    | <!-- lexent -->
 | _...._     | walk    |
 
 ## Adjectives
 
 |       |       |
 |-------|-------|
-| _mom_ | round |
-| _tet_ | flat  |
-| _tik_ | sharp |
+| _mom_ | round | <!-- lexent -->
+| _tet_ | flat  | <!-- lexent -->
+| _tik_ | sharp | <!-- lexent -->
 | _..._ | good  |
 | _..._ | bad   |
 
@@ -107,14 +107,13 @@ particle would be more of a middle-Shókë development.
 
 Sources: Dolgopolsky; Swadesh; Wierzbicka's semantics primes
 
-Nouns: _a-long-time a-short-time air animal back bark-(tree) belly boat body border breast buffalo
-burn-(noun) caribou cat cloth creature dog dust ear earth east egg eye face family fat-(noun) father
-feather finger fingernail fish flood flour flower fly-(creature) fog foot forest fruit glass goat
-gold grass ground hair hand head heart horn horse hospital house husband ice island jungle/forest
-key knee knife lake leather leg liver louse man meat month mosquito mother mountain mouth music name
-neck north nose part poison rope salt sand sea seed sheep side skin sky smoke snake snow
-someone something/thing south spouse star stick storm tail tear/teardrop thread tongue-(organ) tooth
-village war west wing woman wood wool word/speech worm year_
+Nouns: _a-long-time a-short-time air animal back bark-(tree) belly boat body breast buffalo
+burn-(noun) caribou cloth creature dust ear east egg face family fat-(noun) father finger fingernail
+fish flood flour flower fog foot forest fruit goat grass ground hair hand head heart horn house
+husband ice island jungle/forest knee knife lake leather leg liver louse man meat month mosquito
+mother mountain mouth music name neck north nose part poison rope salt sand sea seed sheep side skin
+sky smoke snake snow someone something south spouse star stick storm tail tear/teardrop thread
+tongue tooth village war west wife wing woman wood wool word worm year_
 
 Verbs: _be-born be-called be-(someone/something) be-(somewhere) bite blow can count cut die dig do
 fall fear feel fight float flow fly freeze grow-(in-ground) happen hit hold hunt kill know
@@ -123,9 +122,8 @@ push read rub say scratch sew sing sit smell something spit split squeeze stab s
 think throw tie touch-(contact) turn-(intransitive) vomit want wash wipe_
 
 Adjectives: _all bad big black cold dead dirty dry dull-(knife) far few flat full good green hard
-heavy here kind left long many more much/many my/mine narrow near new old other other-else-another
-red right rotten round same sharp-(knife) short small smooth soft some straight sweet thick thin
-true warm wet white wide yellow_
+heavy here kind left long many more much/many my/mine narrow near new old other red right rotten
+round same short small smooth soft some straight sweet thick thin true warm wet white wide yellow_
 
 Adverbs: _front in inside maybe now there very_
 
