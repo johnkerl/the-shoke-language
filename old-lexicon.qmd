@@ -8,7 +8,7 @@ title: Lexicon of Old Shókë
 |--------|----------------------|
 | _kæt_  | this                 |
 | _shox_ | that (near)          |
-| _dhon_ | the other (far away) |
+| _nozh_ | the other (far away) |
 
 ## Exclamation
 
@@ -36,7 +36,7 @@ particle would be more of a middle-Shókë development.
 | First person:  | _ke_  | I/me            | _keke_   | we/us (exclusive of the addressee(s)) |
 | Second person: | _sho_ |  you (singular) | _shosho_ | you    (plural)                       |
 | First+second:  |       |                 | _shoke_  | we/us (inclusive of the addressee(s)) |
-| Third person:  | _dho_ | he/she/him/her  | _dhodho_ | they/them                             |
+| Third person:  | _no_  | he/she/him/her  | _nono_   | they/them                             |
 
 ## Nouns
 

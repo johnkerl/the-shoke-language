@@ -7,67 +7,6 @@ To do: develop this a bit more and try to push the boundary of what's expressibl
 * _Kæt xoma ke shem_: I will sleep tonight. Or, _Ke kæt xom shem_.
 * _Shoke trk mrm-kætr_: Let's go and drink water.
 * _Sho tik koch kætr kesh shoxtr_: Take the sharp stone and make fire (strike sparks)
-* _Ke dho mrm shoxtr_: I will give him/her water.
+* _Ke no mrm shoxtr_: I will give him/her water.
 * _Jitjit dhæm shem_: The bird is sleeping in the tree.
 * ... _more here_
-
-<!--
-
-* _kæt_: this
-* _shox_: that
-* _dhon_: the other
-
-* _che_: no/not
-* _dæ_: question particle
-
-* _xoj_!: wow!
-
-* _ke_:    I/me
-* _keke_:  we/us (exclusive of the addressee(s))
-
-* _shoke_: we/us (inclusive of the addressee(s))
-
-* _sho_:   you    (singular)
-* _shosho_: you    (plural)
-
-* _dho_:     he/she/him/her
-* _dhodho_:   they/them
-
-* _chak_:   ash
-* _jitjit_: bird
-* _tok_:    bone
-* _shama_:  day
-* _kesh_:   fire
-* _næth_:   leaf
-* _xom_:    moon
-* _zhizh_:  mosquito/fly
-* _xoma_:   night
-* _shuk_:   person
-* _tæsh_:   rain
-* _trm_:    river
-* _meka_:   squirrel
-* _koch_:   stone
-* _sha_:    sun
-* _dej_:    tooth
-* _dhæm_:   tree
-* _mrm_:    water
-* _shish_:  wind
-
-## Verbs
-
-* _mish_:     breathe
-* _katrk_:    come
-* _mrm-kætr_: drink   -- water  take?
-* _shoxtr_:   give
-* _trk_:      go
-* _shem_:     sleep
-* _shæx_:     speak
-* _kætr_:     take
-
-## Adjectives
-
-* _mom_:  round
-* _tet_:  flat
-* _tik_:  sharp
-
--->

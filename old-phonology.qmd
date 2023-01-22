@@ -18,7 +18,7 @@ The _t_ and _d_ are purely dental, as in Spanish.
 I personally dislike _f_ and _v: their omission is plausible.  The omission of _p_ and _b_ is
 implausible.
 
-Vowels:
+Vowels and syllabic liquids:
 
 |            | Front     | Central     | Back    |
 -------------|-----------|-------------|---------|
@@ -26,13 +26,16 @@ Vowels:
 | Mid        | _e_       |             | _o_     |
 |            | _æ_       |             |         |
 | Open       | _a_       |             |         |
-| Liquid     | _r_       | _l_         |         |
+
+| Alveolar glide | Alveolar lateral |
+|----------------|------------------|
+| _r_            | _l_              |
 
 It is to be noted that in Old Shókë, the liquids _r_ and _l_ are not consonants.  They function
 exclusively as nuclei in onset-nucleus-coda structures (below).  For example, to pronounce _mrm_,
 simply utter the English word _murmur_ but leave off the final _ur_.
 
-To do: Few of these sounds are non-English. A bit more could be done in this direction.
+To do: A few, but not many, of these sounds are non-English. A bit more could be done in this direction.
 
 ## Phonotactics
 
