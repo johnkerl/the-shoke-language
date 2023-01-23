@@ -29,4 +29,6 @@ gender, tense, and so on.
 While this is primarily a linguistic experiment -- more _conling_ than _artlang_, as it were -- I
 choose to make things pleasant to my ear (although as of January 2023 Old Shókë comes off as a bit
 on the harsh side). Similarly, I'll actively avoid gender affixes, primarily because I simply choose
-to do so.
+to do so. Likewise, I dislike complex vowel systems, as in English and French. A great many natural
+languages get along quite fine with _aeiou_ or _aiu_ -- I hope to see where simulated evolution of
+this constructed language goes with its _ae&aelig;iou_ vowels.

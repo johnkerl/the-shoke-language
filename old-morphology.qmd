@@ -1,0 +1,12 @@
+---
+title: Morphology of Old Shókë
+---
+
+In this thought experiment, Old Shókë simply has not yet developed affixing or other word-building
+mechanisms.  Utterances are built up using unmodified stock vocabulary words as building blocks,
+following a simple syntax (below). One of the primary developments of Middle Shókë and onward
+will be precisely the development of morphology.
+
+That said, I am thinking of _sho_ for singular _you_ and _shosho_ for plural _you_, and likewise for
+first and third persons -- so perhaps where I'm going with this is that Old Shókë's morphology will
+consist of, at least, some duplicative affixing for plural markers.

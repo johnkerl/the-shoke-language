@@ -19,6 +19,7 @@ book:
       chapters: 
         - old-phonology.qmd
         - old-transcription.qmd
+        - old-morphology.qmd
         - old-lexicon.qmd
         - old-syntax.qmd
         - old-examples.qmd

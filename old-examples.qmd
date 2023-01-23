@@ -4,10 +4,12 @@ title: Examples of Old Shókë
 
 To do: develop this a bit more and try to push the boundary of what's expressible this way.
 
-* _Kæt xoma ke shem_: I will sleep tonight. Or, _Ke kæt xom shem_.
-* _Shoke trk mrm-kætr_: Let's go and drink water.
-* _Ke no mrm shoxtr_: I will give him/her water.
-* _Sho tik koch kætr kesh shoxtr_: Take the sharp stone and make fire (strike sparks)
-* _Che che che che che ... shoke nozh thothrk_ che _g&aelig;m_: No no no no no ... we are _not_ eating those mushrooms.
-* _Jitjit dhæm shem_: The bird is sleeping in the tree.
-* ... _more here_
+| Old Shókë | Gloss | Translation |
+|-----------|-------|-------------|
+| _Kæt xoma ke shem_ | This night I sleep | I will sleep tonight. Or, _Ke kæt xoma shem_. |
+| _Shoke trk mrm-kætr_ | We/us go water-drink | Let's go and drink water. |
+| _Ke no mrm shoxtr_ | I him/her water give | I will give him/her water. |
+| _Sho tik koch kætr kesh shoxtr_ | You sharp stone take fire make | Take the sharp stone and make fire (strike sparks) |
+| _Che che che che che ... shoke nozh thothrk_ che _g&aelig;m_ | No no no no no ... we those mushroom(s) no/not eat | No no no no no ... we are _not_ eating those mushrooms. |
+| _Jitjit dhæm shem_ | Bird tree sleep(s) | The bird is sleeping in the tree.
+| ... | ... | ... |
