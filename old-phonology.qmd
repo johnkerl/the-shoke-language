@@ -15,7 +15,7 @@ Consonants:
 
 The _t_ and _d_ are purely dental, as in Spanish.
 
-I personally dislike _f_ and _v: their omission is plausible.  The omission of _p_ and _b_ is
+I personally dislike _f_ and _v_: their omission is plausible.  The omission of _p_ and _b_ is
 implausible.
 
 Vowels and syllabic liquids:
@@ -31,9 +31,9 @@ Vowels and syllabic liquids:
 |----------------|------------------|
 | _r_            | _l_              |
 
-It is to be noted that in Old Shókë, the liquids _r_ and _l_ do not play a consonantal.  They function
-exclusively as nuclei in onset-nucleus-coda structures (below).  For example, to pronounce _mrm_,
-simply utter the English word _murmur_ (with rhotic _r_) but leave off the final _ur_.
+It is to be noted that in Old Shókë, the liquids _r_ and _l_ do not play a consonantal role.  They
+function exclusively as nuclei in onset-nucleus-coda structures (below).  For example, to pronounce
+_mrm_, simply utter the English word _murmur_ (with rhotic _r_) but leave off the final _ur_.
 
 To do: A few, but not many, of these sounds are non-English. A bit more could be done in this direction.
 

@@ -10,10 +10,9 @@ I don't define any linguistic terminology in this document; TAoLI or any introdu
 textbook will suffice as background.
 
 The Old Shókë language is minimal, with a small paleolithic lexicon of nouns, verbs, and pointing
-words -- onomatopoeic when possible.  Syntax is unsophisticated isolating SOV.
-
-The Middle Shókë and New Shókë languages are artificial milestone-markings along the gradual path of
-change of the language over time, from (mild) agglutination to (mild) fusion.
+words -- onomatopoeic when possible.  Syntax is unsophisticated isolating SOV.  The Middle Shókë and
+New Shókë languages are artificial milestone-markings along the gradual path of change of the
+language over time, from (mild) agglutination to (mild) fusion.
 
 The lexicon shown in this document is minimal -- no attempt is made to make even a vocabulary which
 would get a person through even the most routine of days. In reality the language would have a bigger
